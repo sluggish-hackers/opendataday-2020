@@ -2,15 +2,15 @@ _model: home
 ---
 next_date: 2020-03-07
 ---
-title: You are invited
+title: 2020 오픈데이터데이
 ---
-banner_heading_1: You are invited.
+banner_heading_1: 의원님들 어디가?
 ---
-banner_heading_2: Again!
+banner_heading_2: (🗺세계편)
 ---
-banner_content_1: Open Data Day 2020 will take place on
+banner_content_1: 오픈데이터데이 2020는 뉴스타파, 정보공개센터
 ---
-banner_content_2: Saturday 7th March
+banner_content_2: 그리고 Sluggish Hackers가 함께합니다.
 ---
 intro_heading: What is Open Data Day?
 ---
@@ -138,17 +138,3 @@ The [Centre for Humanitarian Data](https://data.humdata.org) has over 17,000 hum
 resources_ideas_theme_6: Human Rights theme
 ---
 resources_ideas_theme_6_text:
-
----
-support_scheme_heading: Support Scheme
----
-support_scheme_body:
-
-Apply now to receive up to $300 USD in support for your event via the Open Data Day 2020 mini-grant scheme. Applications for the mini-grant scheme must be submitted before midnight GMT on Sunday 9th February 2020.
-
----
-support_scheme_button: Learn more
----
-support_scheme_logos:
-The Open Data Day 2020 mini-grants are kindly supported by:
----
