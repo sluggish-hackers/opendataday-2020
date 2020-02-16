@@ -1,14 +1,14 @@
 [project]
-name = Open Data Day
+name = Open Data Day 2020
 
 [servers.ci]
 enabled = yes
-target = ghpages+https://okfn/opendataday?cname=opendataday.org
+target = ghpages+https://sluggish-hackers/opendataday-2020?cname=opendataday.sluggish.at
 
 [servers.manual]
 enabled = yes
 default = yes
-target = ghpages://okfn/opendataday?cname=opendataday.org
+target = ghpages://sluggish-hackers/opendataday-2020?cname=opendataday.org
 
 [alternatives.en]
 name = English
