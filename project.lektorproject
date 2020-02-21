@@ -10,57 +10,7 @@ enabled = yes
 default = yes
 target = ghpages://sluggish-hackers/opendataday-2020?cname=opendataday.org
 
-[alternatives.en]
-name = English
+[alternatives.ko]
+name = 한국어
 primary = yes
-locale = en
-
-[alternatives.de]
-name = Deutsch
-url_prefix = /de/
-locale = de
-
-[alternatives.es_es]
-name = Castellano
-url_prefix = /es_es/
-locale = es_es
-
-[alternatives.fr]
-name = French
-url_prefix = /fr/
-locale = fr
-
-[alternatives.it]
-name = Italiano
-url_prefix = /it/
-locale = it
-
-[alternatives.ja]
-name = Japanese
-url_prefix = /ja/
-locale = ja
-
-[alternatives.ne]
-name = Nepali
-url_prefix = /ne/
-locale = ne
-
-[alternatives.nl]
-name = Nederlands
-url_prefix = /nl/
-locale = nl
-
-[alternatives.pt_br]
-name = Português brasileiro
-url_prefix = /pt_br/
-locale = pt_br
-
-[alternatives.ru]
-name = Russian
-url_prefix = /ru/
-locale = ru
-
-[alternatives.zh_tw]
-name = 正體中文
-url_prefix = /zh_tw/
-locale = zh_tw
+locale = ko
