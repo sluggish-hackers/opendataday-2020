@@ -151,6 +151,7 @@
       }
     }
 }
+
   & > section {
     clear: both;
 
@@ -164,6 +165,8 @@
 
     .about,
     .this-year {
+      padding-bottom: 10px;
+
       header {
         @media (min-width:$max-screen) {
           max-width: 450px;
@@ -221,6 +224,7 @@
         }
       }
     }
+
     .this-year {
       background-color: $purple;
       @include rev-text;
@@ -345,63 +349,68 @@
           }
         }
 
-    &#who {
-          background-color: $blue;
-          @include rev-text;
-          @media (min-width:$max-screen) {
-            position: relative;
-            padding-bottom: 50px;
+    &#attend {
+        background-color: $blue;
+        @include rev-text;
+        @media (min-width:$max-screen) {
+          position: relative;
+          padding-bottom: 50px;
 
-            &:after {
-              content: '';
-              position: absolute;
-              width: 0;
-              height: 0;
-              border-style: solid;
-              border-width: 0 0 80px 100vw;
-              border-color: transparent transparent #fff transparent;
-              bottom: 0;
-              left: 0;
-              z-index: 1;
+          &:after {
+            content: '';
+            position: absolute;
+            width: 0;
+            height: 0;
+            border-style: solid;
+            border-width: 0 0 80px 100vw;
+            border-color: transparent transparent #fff transparent;
+            bottom: 0;
+            left: 0;
+            z-index: 1;
+          }
+        }
+
+        @media (min-width:$max-screen) {
+          display: flex;
+          flex-direction: row;
+        }
+
+        & > div {
+          padding: $gutter 0;
+
+          header {
+            padding-left: $gutter;
+            padding-right: $gutter;
+            padding-bottom: $base-spacing;
+            @media (min-width:$max-screen) {
+              margin-left: -$gutter;
+              margin-right: -$gutter;
             }
           }
 
-          & > div {
-            padding: $gutter 0;
-
-            header {
-              padding-left: $gutter;
-              padding-right: $gutter;
-              padding-bottom: $base-spacing;
-              @media (min-width:$max-screen) {
-                margin-left: -$gutter;
-                margin-right: -$gutter;
-              }
+          ul {
+            @include clearafter;
+            padding: 0;
+            margin: 0;
+            text-align: left;
+            @media (min-width:$max-screen) {
+              margin-left: -$gutter;
+              margin-right: -$gutter;
             }
 
-            ul {
-              @include clearafter;
-              padding: 0;
-              margin: 0;
-              text-align: left;
+            li {
+              display: block;
+              padding: 0.5em 0 0;
+              box-sizing: border-box;
+              font-size: 0.9em;
+
               @media (min-width:$max-screen) {
-                margin-left: -$gutter;
-                margin-right: -$gutter;
-              }
-
-              li {
-                display: block;
-                padding: 0.5em 0 0;
-                box-sizing: border-box;
-                font-size: 0.9em;
-
-                @media (min-width:$max-screen) {
-                  padding: 0.5em $gutter 0;
-                }
+                padding: 0.5em $gutter 0;
               }
             }
           }
         }
+      }
 
     &#place {
           text-align: center;
