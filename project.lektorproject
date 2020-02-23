@@ -8,7 +8,7 @@ target = ghpages+https://sluggish-hackers/opendataday-2020?cname=opendataday.slu
 [servers.manual]
 enabled = yes
 default = yes
-target = ghpages://sluggish-hackers/opendataday-2020?cname=opendataday.org
+target = ghpages://sluggish-hackers/opendataday-2020?cname=opendataday.sluggish.at
 
 [alternatives.ko]
 name = 한국어
