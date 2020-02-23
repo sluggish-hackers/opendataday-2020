@@ -12,129 +12,37 @@ banner_content_1: 뉴스타파, 정보공개센터
 ---
 banner_content_2: Sluggish Hackers가 함께합니다.
 ---
-intro_heading: What is Open Data Day?
+intro_heading: 오픈 데이터 데이란?
 ---
 intro_body:
 
-Open Data Day is an annual celebration of open data all over the world. For the tenth time, groups from around the world will create local events on the day where they will use open data in their communities. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business and civil society.
+오픈 데이터 데이(Open Data Day)란 전세계 각지에서 열리는 공개 데이터를 위한 행사입니다. 2020년은 10번째 열리는 행사로, 올해도 역시 전세계 각지에서 지역 커뮤니티 기반으로 오픈 데이터 데이가 열립니다. 한국에서는 저희 행사와 <a href="https://www.facebook.com/events/126584362042258/" target="_blank">널채움 커뮤니티가 주최하는 행사</a>까지 총 2곳에서 열립니다.
+
 ---
 intro_body_2:
 
-All outputs are open for everyone to use and re-use.
+이 날 만들지는 모든 데이터는 누구에게나 자유롭게 재사용될 수 있는 형태로 공개됩니다.
 ---
 year_intro:
 
-For Open Data Day 2020, we want keep the community growing. We'll give mini-grants on key areas that we believe open data can solve. You can see this year's tracks below
+<a href="https://newstapa.org/" target="_blank">뉴스타파</a>, <a href="https://www.opengirok.or.kr/" target="_blank">정보공개센터</a>, Sluggish Hackers가 함께하는 오픈 데이터 데이에서는 우리 지역 의원님들이 그렇게 유익하고, 그렇게 알차게 해외 연수를 다녀오신다는 소식을 듣고! 2020년 해외 여행을 준비하는 분들을 위해 "의원님들 어디가? - 세계편"을 주제로 선정해보았습니다.<br /><br />
+뉴스타파 데이터팀, 정보공개센터 활동가 분들과 함께 내가 살고있는 지역의 의원님들이 다녀온 해외 연수 데이터를 쌓아 세계여행지도를 만들어보고, 우리 올해 여행 계획을 함께 짜보실래요? 이번 오픈 데이터 데이는 <a href="https://blog.okfn.org/2020/02/20/meet-the-organisations-who-have-been-awarded-open-data-day-2020-mini-grants" target="_blank">Open Knowledge Foundation의 후원</a>을 받아진행됩니다.
+
 ---
-year_label_1: Environmental **data**
----
-year_label_2: Tracking public **money** flows
----
-year_label_3: Open **mapping**
----
-year_label_4: Data for **equal development**
----
-register_text: Register your event here
----
-events_registered: Events registered so far
----
-who_heading: Who is this for? Everyone!
+who_heading: 참가 자격
 ---
 who_body:
-
-If you have an idea for using open data, want to find an interesting project to contribute towards, learn about how to visualise or analyse data or simply want to see what's happening, then come participate! Participation is a core value of Open Data Day, everyone is free to voice their opinions in a constructive manner. No matter your skill-set or interests, we are encouraging organisers to foster opportunities for you to learn and help the global open data community grow.
+* 올해 해외여행을 계획 중인 사람
+* 첫 해외여행을 어디로 가면 좋을지 모르겠는 사람
+* 지역의원이 되고싶은 사람
+* 뉴스타파 데이터팀이 하는 일이 궁금한 사람
+* 정보공개센터가 하는 일이 궁금한 사람
+* 코드로 사회에 기여해보고싶은 사람
+* 코드를 몰라도 사회에 기여해보고싶은 사람
 ---
-who_title_1: People
+place_heading: 장소: 서울 눅스(Seoul Nooks)
 ---
-who_description_1:
-
-We need you the most. If it wasn’t for you, this whole thing wouldn’t be happening. Wherever you come from and whatever your background, we need you.
----
-who_title_2: Public servants
----
-who_description_2:
-
-Your input and context can help us to make government data better. Come converse and learn.
----
-who_title_3: Designers
----
-who_description_3:
-
-Help us make open data relatable, so more people will use it and understand it.
----
-who_title_4: Developers
----
-who_description_4:
-
-Use your skills to develop solutions that can help solve important societal issues.
----
-who_title_5: Statisticians
----
-who_description_5:
-
-Use your skills to help understand the data and get important insights from it.
----
-resources_heading: Event Resources
----
-resources_intro:
+place_intro:
 
 Need some inspiration for an Open Data Day event, or don't know where to find the data you need? Check out our 2020 event resources.
 ---
-resources_button: Resources
----
-resources_materials_heading: Materials
----
-resources_materials_text:
-
-Create a logo for the event in your city using the [logo generator](http://odd.structure-and-representation.com/)!
----
-resources_ideas_heading: Ideas and data sources
----
-resources_ideas_intro:
-
-Hey there open data enthusiast! You just saw that Open Data Day will be on Saturday 7th March 2020 and you're interested in hosting an event in your locality? Your only challenge now is finding the idea that will hit the right spot. Our friends from the open data community have some ideas and data sources worth checking out.
-
-Visit the [CKAN website](https://ckan.org/about/instances/) to discover all the organisations around the world using CKAN to publish their data.
-
-Use [data.world](https://data.world) to upload or find data from many sources and organise all aspects of a project - including data, notebooks, analysis and discussions - in a single workspace.
-
-If you have data but don't know where to put it, you can use [DataHub](https://datahub.io). You can publish datasets, [search for relevant data](https://datahub.io/search), [browse thematic data collections](https://datahub.io/collections) and [request help](https://gitter.im/datahubio/chat) with your open data publishing.
-
----
-resources_ideas_theme_1: Environmental data
----
-resources_ideas_theme_1_text:
-
-To discover environmental or climate data to use or get inspiration from for your Open Data Day event: visit the [ResourceWatch.org site](https://resourcewatch.org/), a [World Resources Institute](https://www.wri.org/) data portal; explore [NASA's open data website](https://open.nasa.gov/open-data/); head to [geoportal.org](https://www.geoportal.org) for earth observation data; or discover forest cover/loss data with [Global Forest Watch](https://www.globalforestwatch.org/).
-
-[OpenOil](http://openoil.net), [Extract-a-Fact](http://www.extractafact.org/) and the [Open Data Charter's OpenUp guide to climate data](https://open-data-charter.gitbook.io/open-up-guide-using-open-data-to-advance-climate-a/) may also provide useful guidance and advice.
-
----
-[//]: # (resources_ideas_theme_2: 
----
-resources_ideas_theme_2_text:
-
----
-resources_ideas_theme_3: Tracking public money flows
----
-resources_ideas_theme_3_text:
-
-The [Open Contracting Partnership](https://www.open-contracting.org) and Hivos' [Open Up Contracting](https://www.openupcontracting.org/) websites provide lots of guidance and examples for people looking to do Open Data Day events focused on public procurement and spending. See also: the [Open Data Charter guide to using open data to combat corruption](https://open-data-charter.gitbook.io/open-up-guide-using-open-data-to-combat-corruption/).
----
-resources_ideas_theme_4: Open mapping
----
-resources_ideas_theme_4_text:
-
-Find out more about open mapping via the [Mapbox](https://www.mapbox.com), [OpenStreetMap](https://www.openstreetmap.org/) and [Humanitarian OpenStreetMap](https://www.hotosm.org/) websites.
-
----
-resources_ideas_theme_5: Data for equal development
----
-resources_ideas_theme_5_text:
-
-The [Centre for Humanitarian Data](https://data.humdata.org) has over 17,000 humanitarian open datasets available via the CKAN-powered portal at [data.humdata.org](https://data.humdata.org/) which may help to highlight key issues about equal development. You can also visit the [United Nations' Open SDG Data Hub](https://unstats-undesa.opendata.arcgis.com), the [World Bank Open Data portal](https://data.worldbank.org) or the large data harvesting portals like the [European Data Portal](https://www.europeandataportal.eu/)
-
----
-resources_ideas_theme_6: Human Rights theme
----
-resources_ideas_theme_6_text:
